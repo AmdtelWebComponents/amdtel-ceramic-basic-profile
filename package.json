@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/tripy37.litjs-l6po9iny",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve dqzxu192lq4Zl5lcE0Md --open"
+  },
+  "dependencies": {}
+}
